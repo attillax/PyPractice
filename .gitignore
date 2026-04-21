@@ -216,7 +216,6 @@ __marimo__/
 *.out
 *.bbl
 *.blg
-*.pdf
 
 #GNUplot
 *.gnuplot
